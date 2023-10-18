@@ -1,0 +1,26 @@
+{
+  "name": "8300",
+  "version": "1.0.0",
+  "description": "use `Bun` to create a server playground.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/server-playground/8300.git"
+  },
+  "author": {
+    "name": "lixinliang",
+    "url": "https://github.com/lixinliang"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/server-playground/8300/issues"
+  },
+  "homepage": "https://github.com/server-playground/8300#readme",
+  "dependencies": {
+    "bun-types": "^1.0.6"
+  }
+}
